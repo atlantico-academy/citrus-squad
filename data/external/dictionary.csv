@@ -1,12 +1,12 @@
 variavel,descricao,tipo,subtipo
-Size,tamanho,qualitativa,nominal
-Weigth,Peso,qualitativa,nominal
-Brix,Nível de doçura em Brix,qualitativa,continua
-pH,Nível de acidez (pH),qualitativa,nominal
-Softness,Classificação de suavidade (1-5),qualitativa,nominal
-HarvestTime,Dias desde a colheita,qualitativa,nominal
-Ripeness,Maturação,qualitativa,nominal
-Color,Cor da fruta,quantitativa,continua
-Variety,Variedade Laranja,quantitativa,continua
-Blemishes,Presença de manchas,quantitativa,continua
-Quality,Qualidade,quantitativa,continua
+Size,Tamanho  da fruta(cm),quantitativa,continua
+Weigth,Peso,quantitativa,continua
+Brix,Nível de doçura em Brix,quantitativa,continua
+pH,Nível de acidez (pH),quantitativa,continua
+Softness,Classificação de suavidade (1-5),quantitativa,continua
+HarvestTime,Dias desde a colheita,quantitativa,nominal
+Ripeness,Maturação,quantitativa,discreta
+Color,Cor da fruta,qualitativa,nominal
+Variety,Variedade Laranja,qualitativa,nominal
+Blemishes,Presença de manchas,qualitativa,booleano
+Quality,Qualidade geral da fruta,quantitativa,discreta
